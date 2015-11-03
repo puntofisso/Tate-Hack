@@ -1,6 +1,6 @@
 import sys, os
 import cv2
-import urllib
+import urllib2
 from urlparse import urlparse
 
 def detect(path):
